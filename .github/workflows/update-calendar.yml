@@ -1,0 +1,36 @@
+name: Aggiorna calendario Ospitaletto
+
+on:
+  schedule:
+    # Ogni lunedì e giovedì alle 06:00 UTC (08:00 ora italiana)
+    - cron: "0 6 * * 1,4"
+  workflow_dispatch: {}   # permette di lanciarlo anche a mano da GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: pip install requests beautifulsoup4
+
+      - name: Genera calendario ics
+        run: python scripts/generate_ics.py
+
+      - name: Commit e push se ci sono modifiche
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ospitaletto.ics
+          git diff --cached --quiet || git commit -m "Aggiornamento automatico calendario"
+          git push
