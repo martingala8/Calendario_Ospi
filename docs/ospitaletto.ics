@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ospitaletto-g01-2026-08-22@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260822T180000
 DTEND;TZID=Europe/Rome:20260822T200000
 SUMMARY:Ospitaletto Franciacorta - Lumezzane
@@ -18,7 +18,7 @@ DESCRIPTION:Giornata 1 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g02-2026-08-31@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260831T210000
 DTEND;TZID=Europe/Rome:20260831T230000
 SUMMARY:AlbinoLeffe - Ospitaletto Franciacorta
@@ -27,7 +27,7 @@ DESCRIPTION:Giornata 2 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g03-2026-09-06@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260906T150000
 DTEND;TZID=Europe/Rome:20260906T170000
 SUMMARY:Ospitaletto Franciacorta - Arzignano Valchiampo (orario da confermare)
@@ -36,7 +36,7 @@ DESCRIPTION:Giornata 3 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g04-2026-09-13@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260913T180000
 DTEND;TZID=Europe/Rome:20260913T200000
 SUMMARY:Ospitaletto Franciacorta - Juventus Next Gen
@@ -45,7 +45,7 @@ DESCRIPTION:Giornata 4 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g05-2026-09-17@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260917T150000
 DTEND;TZID=Europe/Rome:20260917T170000
 SUMMARY:Carpi - Ospitaletto Franciacorta (orario da confermare)
@@ -54,7 +54,7 @@ DESCRIPTION:Giornata 5 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g06-2026-09-20@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260920T150000
 DTEND;TZID=Europe/Rome:20260920T170000
 SUMMARY:Ospitaletto Franciacorta - Cittadella (orario da confermare)
@@ -63,7 +63,7 @@ DESCRIPTION:Giornata 6 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g07-2026-09-26@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20260926T150000
 DTEND;TZID=Europe/Rome:20260926T170000
 SUMMARY:Novara - Ospitaletto Franciacorta (orario da confermare)
@@ -72,7 +72,7 @@ DESCRIPTION:Giornata 7 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g08-2026-10-03@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261003T150000
 DTEND;TZID=Europe/Rome:20261003T170000
 SUMMARY:Ospitaletto Franciacorta - Renate (orario da confermare)
@@ -81,7 +81,7 @@ DESCRIPTION:Giornata 8 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g09-2026-10-11@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261011T150000
 DTEND;TZID=Europe/Rome:20261011T170000
 SUMMARY:Treviso - Ospitaletto Franciacorta (orario da confermare)
@@ -90,7 +90,7 @@ DESCRIPTION:Giornata 9 - Serie C Girone A 2026/27. Orario provvisorio, verra' ag
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g10-2026-10-18@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261018T150000
 DTEND;TZID=Europe/Rome:20261018T170000
 SUMMARY:Ospitaletto Franciacorta - Pergolettese (orario da confermare)
@@ -99,7 +99,7 @@ DESCRIPTION:Giornata 10 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g11-2026-10-25@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261025T150000
 DTEND;TZID=Europe/Rome:20261025T170000
 SUMMARY:Pro Vercelli - Ospitaletto Franciacorta (orario da confermare)
@@ -108,7 +108,7 @@ DESCRIPTION:Giornata 11 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g12-2026-11-01@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261101T150000
 DTEND;TZID=Europe/Rome:20261101T170000
 SUMMARY:Ospitaletto Franciacorta - Trento (orario da confermare)
@@ -117,7 +117,7 @@ DESCRIPTION:Giornata 12 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g13-2026-11-08@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261108T150000
 DTEND;TZID=Europe/Rome:20261108T170000
 SUMMARY:Desenzano - Ospitaletto Franciacorta (orario da confermare)
@@ -126,7 +126,7 @@ DESCRIPTION:Giornata 13 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g14-2026-11-15@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261115T150000
 DTEND;TZID=Europe/Rome:20261115T170000
 SUMMARY:Ospitaletto Franciacorta - Dolomiti Bellunesi (orario da confermare)
@@ -135,7 +135,7 @@ DESCRIPTION:Giornata 14 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g15-2026-11-22@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261122T150000
 DTEND;TZID=Europe/Rome:20261122T170000
 SUMMARY:Alcione Milano - Ospitaletto Franciacorta (orario da confermare)
@@ -144,7 +144,7 @@ DESCRIPTION:Giornata 15 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g16-2026-11-29@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261129T150000
 DTEND;TZID=Europe/Rome:20261129T170000
 SUMMARY:Ospitaletto Franciacorta - Union Brescia (orario da confermare)
@@ -153,7 +153,7 @@ DESCRIPTION:Giornata 16 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g17-2026-12-06@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261206T150000
 DTEND;TZID=Europe/Rome:20261206T170000
 SUMMARY:Lecco - Ospitaletto Franciacorta (orario da confermare)
@@ -162,7 +162,7 @@ DESCRIPTION:Giornata 17 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g18-2026-12-13@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261213T150000
 DTEND;TZID=Europe/Rome:20261213T170000
 SUMMARY:Ospitaletto Franciacorta - Giana Erminio (orario da confermare)
@@ -171,7 +171,7 @@ DESCRIPTION:Giornata 18 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g19-2026-12-20@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20261220T150000
 DTEND;TZID=Europe/Rome:20261220T170000
 SUMMARY:Folgore Caratese - Ospitaletto Franciacorta (orario da confermare)
@@ -180,7 +180,7 @@ DESCRIPTION:Giornata 19 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g20-2027-01-03@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270103T150000
 DTEND;TZID=Europe/Rome:20270103T170000
 SUMMARY:Lumezzane - Ospitaletto Franciacorta (orario da confermare)
@@ -189,7 +189,7 @@ DESCRIPTION:Giornata 20 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g21-2027-01-10@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270110T150000
 DTEND;TZID=Europe/Rome:20270110T170000
 SUMMARY:Ospitaletto Franciacorta - AlbinoLeffe (orario da confermare)
@@ -198,7 +198,7 @@ DESCRIPTION:Giornata 21 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g22-2027-01-17@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270117T150000
 DTEND;TZID=Europe/Rome:20270117T170000
 SUMMARY:Arzignano Valchiampo - Ospitaletto Franciacorta (orario da confermare)
@@ -207,7 +207,7 @@ DESCRIPTION:Giornata 22 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g23-2027-01-24@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270124T150000
 DTEND;TZID=Europe/Rome:20270124T170000
 SUMMARY:Juventus Next Gen - Ospitaletto Franciacorta (orario da confermare)
@@ -216,7 +216,7 @@ DESCRIPTION:Giornata 23 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g24-2027-01-31@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270131T150000
 DTEND;TZID=Europe/Rome:20270131T170000
 SUMMARY:Ospitaletto Franciacorta - Carpi (orario da confermare)
@@ -225,7 +225,7 @@ DESCRIPTION:Giornata 24 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g25-2027-02-07@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270207T150000
 DTEND;TZID=Europe/Rome:20270207T170000
 SUMMARY:Cittadella - Ospitaletto Franciacorta (orario da confermare)
@@ -234,7 +234,7 @@ DESCRIPTION:Giornata 25 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g26-2027-02-10@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270210T150000
 DTEND;TZID=Europe/Rome:20270210T170000
 SUMMARY:Ospitaletto Franciacorta - Novara (orario da confermare)
@@ -243,7 +243,7 @@ DESCRIPTION:Giornata 26 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g27-2027-02-14@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270214T150000
 DTEND;TZID=Europe/Rome:20270214T170000
 SUMMARY:Renate - Ospitaletto Franciacorta (orario da confermare)
@@ -252,7 +252,7 @@ DESCRIPTION:Giornata 27 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g28-2027-02-21@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270221T150000
 DTEND;TZID=Europe/Rome:20270221T170000
 SUMMARY:Ospitaletto Franciacorta - Treviso (orario da confermare)
@@ -261,7 +261,7 @@ DESCRIPTION:Giornata 28 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g29-2027-02-28@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270228T150000
 DTEND;TZID=Europe/Rome:20270228T170000
 SUMMARY:Pergolettese - Ospitaletto Franciacorta (orario da confermare)
@@ -270,7 +270,7 @@ DESCRIPTION:Giornata 29 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g30-2027-03-03@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270303T150000
 DTEND;TZID=Europe/Rome:20270303T170000
 SUMMARY:Ospitaletto Franciacorta - Pro Vercelli (orario da confermare)
@@ -279,7 +279,7 @@ DESCRIPTION:Giornata 30 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g31-2027-03-07@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270307T150000
 DTEND;TZID=Europe/Rome:20270307T170000
 SUMMARY:Trento - Ospitaletto Franciacorta (orario da confermare)
@@ -288,7 +288,7 @@ DESCRIPTION:Giornata 31 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g32-2027-03-14@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270314T150000
 DTEND;TZID=Europe/Rome:20270314T170000
 SUMMARY:Ospitaletto Franciacorta - Desenzano (orario da confermare)
@@ -297,7 +297,7 @@ DESCRIPTION:Giornata 32 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g33-2027-03-21@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270321T150000
 DTEND;TZID=Europe/Rome:20270321T170000
 SUMMARY:Dolomiti Bellunesi - Ospitaletto Franciacorta (orario da confermare)
@@ -306,7 +306,7 @@ DESCRIPTION:Giornata 33 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g34-2027-03-27@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270327T150000
 DTEND;TZID=Europe/Rome:20270327T170000
 SUMMARY:Ospitaletto Franciacorta - Alcione Milano (orario da confermare)
@@ -315,7 +315,7 @@ DESCRIPTION:Giornata 34 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g35-2027-04-04@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270404T150000
 DTEND;TZID=Europe/Rome:20270404T170000
 SUMMARY:Union Brescia - Ospitaletto Franciacorta (orario da confermare)
@@ -324,7 +324,7 @@ DESCRIPTION:Giornata 35 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g36-2027-04-11@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270411T150000
 DTEND;TZID=Europe/Rome:20270411T170000
 SUMMARY:Ospitaletto Franciacorta - Lecco (orario da confermare)
@@ -333,7 +333,7 @@ DESCRIPTION:Giornata 36 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g37-2027-04-18@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270418T150000
 DTEND;TZID=Europe/Rome:20270418T170000
 SUMMARY:Giana Erminio - Ospitaletto Franciacorta (orario da confermare)
@@ -342,7 +342,7 @@ DESCRIPTION:Giornata 37 - Serie C Girone A 2026/27. Orario provvisorio, verra' a
 END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g38-2027-04-25@ospitaletto-calendar
-DTSTAMP:20260817T080828Z
+DTSTAMP:20260820T080454Z
 DTSTART;TZID=Europe/Rome:20270425T150000
 DTEND;TZID=Europe/Rome:20270425T170000
 SUMMARY:Ospitaletto Franciacorta - Folgore Caratese (orario da confermare)
