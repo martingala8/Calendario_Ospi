@@ -37,8 +37,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ospitaletto-g04-2026-09-13@ospitaletto-calendar
 DTSTAMP:20260908T160821Z
-DTSTART;TZID=Europe/Rome:20260913T210000
-DTEND;TZID=Europe/Rome:20260913T230000
+DTSTART;TZID=Europe/Rome:20260913T180000
+DTEND;TZID=Europe/Rome:20260913T200000
 SUMMARY:Ospitaletto Franciacorta - Juventus Next Gen
 LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 4 - Serie C Girone A 2026/27.
