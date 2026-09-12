@@ -44,7 +44,7 @@ PLACEHOLDER_TIME = "15:00"
 # TheSportsDB: chiave di test pubblica "3" (limitata ma sufficiente per un
 # uso leggero come questo, poche chiamate a settimana). ID squadra Ospitaletto.
 THESPORTSDB_TEAM_ID = "149237"
-THESPORTSDB_URL = f"https://www.thesportsdb.com/api/v1/json/3/eventsnext.php?id={THESPORTSDB_TEAM_ID}"
+THESPORTSDB_URL = f"https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id={THESPORTSDB_TEAM_ID}"
 
 # --------------------------------------------------------------------------------
 # Calendario "seme": tutte le 38 giornate, stagione 2026/27, Serie C Girone A.
