@@ -107,7 +107,7 @@ BASE_MATCHES = [
     (11, "2026-10-25", "Pro Vercelli", "A", "15:00"),
     (12, "2026-11-01", "Trento", "H", "15:00"),
     (13, "2026-11-08", "Desenzano", "A", "15:00"),
-    (14, "2026-11-15", "Dolomiti Bellunesi", "H", "15:00"),
+    (14, "2026-11-13", "Dolomiti Bellunesi", "H", "20:30"),
     (15, "2026-11-22", "Alcione Milano", "A", "15:00"),
     (16, "2026-11-29", "Union Brescia", "H", "15:00"),
     (17, "2026-12-06", "Lecco", "A", "15:00"),
@@ -137,8 +137,8 @@ BASE_MATCHES = [
 
 def scrape_official_calendar():
     """Scarica e legge https://www.seriec.com/calendario, ritornando un dict
-    {"YYYY-MM-DD": (orario, avversario, venue)} con tutte le partite trovate
-    dell'Ospitaletto. Non solleva mai eccezioni: in caso di problemi ritorna
+    {(avversario, "H"/"A"): ("YYYY-MM-DD", "HH:MM")} con tutte le partite
+    trovate dell'Ospitaletto. Non solleva mai eccezioni: in caso di problemi ritorna
     un dict vuoto, cosi' lo script prosegue con i dati gia' noti (BASE_MATCHES).
     """
     if not SCRAPING_AVAILABLE:
@@ -205,7 +205,14 @@ def scrape_official_calendar():
         if opponent is None:
             continue  # non sono riuscito a capire l'avversario, salto per sicurezza
 
-        found[date_iso] = (time_str, opponent, "H" if is_home else "A")
+        # Chiave = (avversario, casa/trasferta): ogni avversario compare una
+        # sola volta in casa e una sola in trasferta nella stagione, quindi la
+        # chiave e' univoca ANCHE se la Lega sposta la partita ad altra data.
+        # (Prima la chiave era la data: una partita anticipata/posticipata non
+        # trovava piu' corrispondenza e veniva ignorata.)
+        key = (opponent, "H" if is_home else "A")
+        if key not in found:
+            found[key] = (date_iso, time_str)
 
     if found:
         print(f"Trovate {len(found)} partite via seriec.com.", file=sys.stderr)
@@ -239,7 +246,9 @@ def build_ics(matches):
             summary = f"{opponent} - {TEAM_NAME}"
             location = opponent
 
-        uid = f"ospitaletto-g{giornata:02d}-{date_iso}@ospitaletto-calendar"
+        # UID legato alla giornata, non alla data: se la partita viene spostata
+        # il calendario aggiorna lo STESSO evento invece di crearne uno nuovo.
+        uid = f"ospitaletto-g{giornata:02d}@ospitaletto-calendar"
         desc = f"Giornata {giornata} - Serie C Girone A 2026/27."
 
         lines += [
@@ -262,9 +271,18 @@ def main():
     scraped = scrape_official_calendar()
     matches = []
     for giornata, date_iso, opponent, venue, known_time in BASE_MATCHES:
-        if date_iso in scraped:
-            time_str, scraped_opponent, scraped_venue = scraped[date_iso]
-            matches.append((giornata, date_iso, scraped_opponent, scraped_venue, time_str))
+        # Abbinamento per (avversario, casa/trasferta), NON per data: cosi'
+        # anticipi e posticipi (cambio di giorno E di orario) vengono recepiti.
+        key = (opponent, venue)
+        if key in scraped:
+            new_date, new_time = scraped[key]
+            if (new_date, new_time) != (date_iso, known_time):
+                print(
+                    f"Giornata {giornata} {opponent}: "
+                    f"{date_iso} {known_time} -> {new_date} {new_time}",
+                    file=sys.stderr,
+                )
+            matches.append((giornata, new_date, opponent, venue, new_time))
         else:
             matches.append((giornata, date_iso, opponent, venue, known_time))
 
