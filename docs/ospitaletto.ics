@@ -8,8 +8,8 @@ X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:ospitaletto-g01-2026-08-22@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g01@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260822T180000
 DTEND;TZID=Europe/Rome:20260822T200000
 SUMMARY:Ospitaletto Franciacorta - Lumezzane
@@ -17,8 +17,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 1 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g02-2026-08-31@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g02@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260831T210000
 DTEND;TZID=Europe/Rome:20260831T230000
 SUMMARY:AlbinoLeffe - Ospitaletto Franciacorta
@@ -26,8 +26,8 @@ LOCATION:AlbinoLeffe
 DESCRIPTION:Giornata 2 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g03-2026-09-06@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g03@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260906T210000
 DTEND;TZID=Europe/Rome:20260906T230000
 SUMMARY:Ospitaletto Franciacorta - Arzignano Valchiampo
@@ -35,8 +35,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 3 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g04-2026-09-13@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g04@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260913T180000
 DTEND;TZID=Europe/Rome:20260913T200000
 SUMMARY:Ospitaletto Franciacorta - Juventus Next Gen
@@ -44,8 +44,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 4 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g05-2026-09-17@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g05@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260917T210000
 DTEND;TZID=Europe/Rome:20260917T230000
 SUMMARY:Carpi - Ospitaletto Franciacorta
@@ -53,8 +53,8 @@ LOCATION:Carpi
 DESCRIPTION:Giornata 5 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g06-2026-09-20@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g06@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260920T143000
 DTEND;TZID=Europe/Rome:20260920T163000
 SUMMARY:Ospitaletto Franciacorta - Cittadella
@@ -62,8 +62,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 6 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g07-2026-09-26@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g07@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20260926T173000
 DTEND;TZID=Europe/Rome:20260926T193000
 SUMMARY:Novara - Ospitaletto Franciacorta
@@ -71,8 +71,8 @@ LOCATION:Novara
 DESCRIPTION:Giornata 7 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g08-2026-10-03@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g08@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261003T203000
 DTEND;TZID=Europe/Rome:20261003T223000
 SUMMARY:Ospitaletto Franciacorta - Renate
@@ -80,8 +80,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 8 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g09-2026-10-11@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g09@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261011T173000
 DTEND;TZID=Europe/Rome:20261011T193000
 SUMMARY:Treviso - Ospitaletto Franciacorta
@@ -89,8 +89,8 @@ LOCATION:Treviso
 DESCRIPTION:Giornata 9 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g10-2026-10-18@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g10@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261018T173000
 DTEND;TZID=Europe/Rome:20261018T193000
 SUMMARY:Ospitaletto Franciacorta - Pergolettese
@@ -98,8 +98,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 10 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g11-2026-10-25@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g11@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261025T173000
 DTEND;TZID=Europe/Rome:20261025T193000
 SUMMARY:Pro Vercelli - Ospitaletto Franciacorta
@@ -107,17 +107,17 @@ LOCATION:Pro Vercelli
 DESCRIPTION:Giornata 11 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g12-2026-11-01@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
-DTSTART;TZID=Europe/Rome:20261101T150000
-DTEND;TZID=Europe/Rome:20261101T170000
+UID:ospitaletto-g12@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
+DTSTART;TZID=Europe/Rome:20261031T143000
+DTEND;TZID=Europe/Rome:20261031T163000
 SUMMARY:Ospitaletto Franciacorta - Trento
 LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 12 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g13-2026-11-08@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g13@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261108T173000
 DTEND;TZID=Europe/Rome:20261108T193000
 SUMMARY:Desenzano - Ospitaletto Franciacorta
@@ -125,17 +125,17 @@ LOCATION:Desenzano
 DESCRIPTION:Giornata 13 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g14-2026-11-15@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
-DTSTART;TZID=Europe/Rome:20261115T150000
-DTEND;TZID=Europe/Rome:20261115T170000
+UID:ospitaletto-g14@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
+DTSTART;TZID=Europe/Rome:20261113T203000
+DTEND;TZID=Europe/Rome:20261113T223000
 SUMMARY:Ospitaletto Franciacorta - Dolomiti Bellunesi
 LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 14 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g15-2026-11-22@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g15@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261122T143000
 DTEND;TZID=Europe/Rome:20261122T163000
 SUMMARY:Alcione Milano - Ospitaletto Franciacorta
@@ -143,17 +143,17 @@ LOCATION:Alcione Milano
 DESCRIPTION:Giornata 15 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g16-2026-11-29@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
-DTSTART;TZID=Europe/Rome:20261129T150000
-DTEND;TZID=Europe/Rome:20261129T170000
+UID:ospitaletto-g16@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
+DTSTART;TZID=Europe/Rome:20261128T173000
+DTEND;TZID=Europe/Rome:20261128T193000
 SUMMARY:Ospitaletto Franciacorta - Union Brescia
 LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 16 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g17-2026-12-06@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g17@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261206T173000
 DTEND;TZID=Europe/Rome:20261206T193000
 SUMMARY:Lecco - Ospitaletto Franciacorta
@@ -161,17 +161,17 @@ LOCATION:Lecco
 DESCRIPTION:Giornata 17 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g18-2026-12-13@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
-DTSTART;TZID=Europe/Rome:20261213T150000
-DTEND;TZID=Europe/Rome:20261213T170000
+UID:ospitaletto-g18@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
+DTSTART;TZID=Europe/Rome:20261212T173000
+DTEND;TZID=Europe/Rome:20261212T193000
 SUMMARY:Ospitaletto Franciacorta - Giana Erminio
 LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 18 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g19-2026-12-20@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g19@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20261220T143000
 DTEND;TZID=Europe/Rome:20261220T163000
 SUMMARY:Folgore Caratese - Ospitaletto Franciacorta
@@ -179,8 +179,8 @@ LOCATION:Folgore Caratese
 DESCRIPTION:Giornata 19 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g20-2027-01-03@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g20@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270103T123000
 DTEND;TZID=Europe/Rome:20270103T143000
 SUMMARY:Lumezzane - Ospitaletto Franciacorta
@@ -188,8 +188,8 @@ LOCATION:Lumezzane
 DESCRIPTION:Giornata 20 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g21-2027-01-10@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g21@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270110T150000
 DTEND;TZID=Europe/Rome:20270110T170000
 SUMMARY:Ospitaletto Franciacorta - AlbinoLeffe
@@ -197,8 +197,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 21 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g22-2027-01-17@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g22@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270117T150000
 DTEND;TZID=Europe/Rome:20270117T170000
 SUMMARY:Arzignano Valchiampo - Ospitaletto Franciacorta
@@ -206,8 +206,8 @@ LOCATION:Arzignano Valchiampo
 DESCRIPTION:Giornata 22 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g23-2027-01-24@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g23@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270124T150000
 DTEND;TZID=Europe/Rome:20270124T170000
 SUMMARY:Juventus Next Gen - Ospitaletto Franciacorta
@@ -215,8 +215,8 @@ LOCATION:Juventus Next Gen
 DESCRIPTION:Giornata 23 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g24-2027-01-31@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g24@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270131T150000
 DTEND;TZID=Europe/Rome:20270131T170000
 SUMMARY:Ospitaletto Franciacorta - Carpi
@@ -224,8 +224,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 24 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g25-2027-02-07@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g25@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270207T150000
 DTEND;TZID=Europe/Rome:20270207T170000
 SUMMARY:Cittadella - Ospitaletto Franciacorta
@@ -233,8 +233,8 @@ LOCATION:Cittadella
 DESCRIPTION:Giornata 25 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g26-2027-02-10@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g26@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270210T204500
 DTEND;TZID=Europe/Rome:20270210T224500
 SUMMARY:Ospitaletto Franciacorta - Novara
@@ -242,8 +242,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 26 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g27-2027-02-14@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g27@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270214T150000
 DTEND;TZID=Europe/Rome:20270214T170000
 SUMMARY:Renate - Ospitaletto Franciacorta
@@ -251,8 +251,8 @@ LOCATION:Renate
 DESCRIPTION:Giornata 27 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g28-2027-02-21@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g28@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270221T150000
 DTEND;TZID=Europe/Rome:20270221T170000
 SUMMARY:Ospitaletto Franciacorta - Treviso
@@ -260,8 +260,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 28 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g29-2027-02-28@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g29@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270228T150000
 DTEND;TZID=Europe/Rome:20270228T170000
 SUMMARY:Pergolettese - Ospitaletto Franciacorta
@@ -269,8 +269,8 @@ LOCATION:Pergolettese
 DESCRIPTION:Giornata 29 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g30-2027-03-03@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g30@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270303T204500
 DTEND;TZID=Europe/Rome:20270303T224500
 SUMMARY:Ospitaletto Franciacorta - Pro Vercelli
@@ -278,8 +278,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 30 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g31-2027-03-07@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g31@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270307T150000
 DTEND;TZID=Europe/Rome:20270307T170000
 SUMMARY:Trento - Ospitaletto Franciacorta
@@ -287,8 +287,8 @@ LOCATION:Trento
 DESCRIPTION:Giornata 31 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g32-2027-03-14@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g32@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270314T150000
 DTEND;TZID=Europe/Rome:20270314T170000
 SUMMARY:Ospitaletto Franciacorta - Desenzano
@@ -296,8 +296,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 32 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g33-2027-03-21@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g33@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270321T150000
 DTEND;TZID=Europe/Rome:20270321T170000
 SUMMARY:Dolomiti Bellunesi - Ospitaletto Franciacorta
@@ -305,8 +305,8 @@ LOCATION:Dolomiti Bellunesi
 DESCRIPTION:Giornata 33 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g34-2027-03-27@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g34@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270327T150000
 DTEND;TZID=Europe/Rome:20270327T170000
 SUMMARY:Ospitaletto Franciacorta - Alcione Milano
@@ -314,8 +314,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 34 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g35-2027-04-04@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g35@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270404T150000
 DTEND;TZID=Europe/Rome:20270404T170000
 SUMMARY:Union Brescia - Ospitaletto Franciacorta
@@ -323,8 +323,8 @@ LOCATION:Union Brescia
 DESCRIPTION:Giornata 35 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g36-2027-04-11@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g36@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270411T150000
 DTEND;TZID=Europe/Rome:20270411T170000
 SUMMARY:Ospitaletto Franciacorta - Lecco
@@ -332,8 +332,8 @@ LOCATION:Stadio Comunale, Ospitaletto (BS)
 DESCRIPTION:Giornata 36 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g37-2027-04-18@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g37@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270418T150000
 DTEND;TZID=Europe/Rome:20270418T170000
 SUMMARY:Giana Erminio - Ospitaletto Franciacorta
@@ -341,8 +341,8 @@ LOCATION:Giana Erminio
 DESCRIPTION:Giornata 37 - Serie C Girone A 2026/27.
 END:VEVENT
 BEGIN:VEVENT
-UID:ospitaletto-g38-2027-04-25@ospitaletto-calendar
-DTSTAMP:20261109T154810Z
+UID:ospitaletto-g38@ospitaletto-calendar
+DTSTAMP:20261111T121344Z
 DTSTART;TZID=Europe/Rome:20270425T150000
 DTEND;TZID=Europe/Rome:20270425T170000
 SUMMARY:Ospitaletto Franciacorta - Folgore Caratese
